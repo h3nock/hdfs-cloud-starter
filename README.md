@@ -1,6 +1,6 @@
 # HDFS Cloud Starter
 
-Deploy a production-ready Hadoop HDFS cluster on GCP and AWS using Terraform and Ansible.
+Deploy Hadoop HDFS cluster on GCP and AWS using Terraform and Ansible.
 
 ---
 
